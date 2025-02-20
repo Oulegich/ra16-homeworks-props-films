@@ -1,9 +1,9 @@
 Рейтинг фильмов
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/2e0a9r7b6ue9dp4r?svg=true)](https://ci.appveyor.com/project/Oulegich/ra16-homeworks-props-films)
 
-
-[Ссылка на Github Pages]()
+[Ссылка на Github Pages](https://oulegich.github.io/ra16-homeworks-props-films/)
 
 Необходимо реализовать компонент, отображающий рейтинг фильма в виде звёзд:
 ![Список фильмов](./pic/preview.png)
